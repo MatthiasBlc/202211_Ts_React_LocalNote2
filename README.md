@@ -12,6 +12,11 @@ A.
 ## Technologies
 A:
 * A
+
+React
+TS
+Vite
+
 	
 ## Features
 * A.
