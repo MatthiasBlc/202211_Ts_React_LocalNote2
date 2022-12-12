@@ -1,4 +1,4 @@
-# Full note
+# Full notes
 
 ## Table of contents
 * [General info](#general-info)
@@ -7,7 +7,7 @@
 * [Sources](#sources)
 
 ## General info
-This project is a complete Bloc note app that run in local using local storage. 
+This project is a complete notes app running in local using local storage. 
 	
 ## Technologies
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -17,29 +17,31 @@ This project is a complete Bloc note app that run in local using local storage.
 
 ## How to install
 
-Clone this repo on your machine, then open it in a Terminal.
-
-Run this command to initialize the project :
+1 - Clone this repo on your machine 
+2 - Open it in a Terminal
+3 - Run this command to initialize the project :
 ```
 npm i
 ```
 
-When you want to use it just run the following commands in your Terminal (inside the project's directory):
+## How to Use
+1 - Just run the following commands in your Terminal (inside the project's directory):
 ```
 npx vite
 ```
 
-You can access the project on the url : [http://localhost:5173/](http://localhost:5173/)
+2 - You can access the project on the url : [http://localhost:5173/](http://localhost:5173/)
 
 That's it!  
 You have access to a complete notepad app !
 
 	
 ## Features
-* You can see a complete display of your notes with titles and tags.
-* You can filter and search by tags and/or title
-* you can create/ edit / delete a note supporting Markdown
-* you can edit / create tags 
+You can: 
+* see a complete display of your notes with titles and tags.
+* filter and search by tags and/or title
+* create/edit/delete a note supporting Markdown
+* edit/create tags 
 
 ## Sources
 This app is created and made by [MatthiasBlc](https://github.com/MatthiasBlc).
