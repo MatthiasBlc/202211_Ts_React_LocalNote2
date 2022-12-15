@@ -3,6 +3,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [How to install](#How-to-install)
+* [How to use](#How-to-use)
 * [Features](#features)
 * [Sources](#sources)
 
@@ -24,7 +26,7 @@ This project is a complete notes app running in local using local storage.
 npm i
 ```
 
-## How to Use
+## How to use
 1 - Just run the following commands in your Terminal (inside the project's directory):
 ```
 npx vite
